@@ -1,3 +1,2 @@
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{a}{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{a}{b}" title="\frac{a}{b}" /></a>
 # CLRS
-\frac{a}{b}
+<img src="https://latex.codecogs.com/gif.latex?\sum_{h=0}^{\left&space;\lfloor&space;lgn&space;\right&space;\rfloor}\left&space;\lceil&space;\frac{n}{2^{h&plus;1}}&space;\right&space;\rceil&space;O(h)" title="\sum_{h=0}^{\left \lfloor lgn \right \rfloor}\left \lceil \frac{n}{2^{h+1}} \right \rceil O(h)" />
