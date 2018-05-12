@@ -36,11 +36,11 @@ void Max_Heapify(vector<int>& A,int i)
     int left=2*i;
     int right=2*i+1;
     int largest;
-    if(left<A.size()-1&&A[left]>A[i])
+    if(left<A.size()&&A[left]>A[i])
         largest=left;
     else
         largest=i;
-    if(left<A.size()-1&&A[right]>A[largest])
+    if(right<A.size()&&A[right]>A[largest])
         largest=right;
     if(largest!=i)
     {
